@@ -134,6 +134,7 @@ sorted_ser  = new_ser.sort_index()
 # b    2
 # dtype: int64
 
+
 # `sorted_ser` is sorted so the following will return the intersection between
 # the slice and the row labels
 #x = sorted_ser['b':'z']

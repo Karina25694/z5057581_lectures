@@ -181,6 +181,7 @@ print(cond)
 res = df.loc[cond]
 print(res)
 
+
 # Get the underlying values of `cond` as an array
 new_cond = cond.array
 

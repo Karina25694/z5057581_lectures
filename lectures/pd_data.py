@@ -264,6 +264,7 @@ a_little_ago = dt.datetime(
     second=1, microsecond=283311)
 print(a_little_ago)
 
+
 # Note that we don't have to pass all arguments
 dt_other = dt.datetime(
     year=2021,

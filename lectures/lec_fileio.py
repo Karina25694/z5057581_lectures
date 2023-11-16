@@ -187,6 +187,7 @@ def safe_open(pth, mode):
     """ Opens the file in `pth` using the mode in `mode` and returns
     a file object.
 
+
     Will not open a file in writing mode if the file already exists and has
     some content.
 

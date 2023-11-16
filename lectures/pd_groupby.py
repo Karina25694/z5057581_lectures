@@ -797,6 +797,7 @@ def five_copies2(ser):
 res = five_copies2(ser)
 print(res)
 
+
 # Output:
 #                           firm action  event_date
 # 2012-02-16 07:42:00  JP Morgan   main  2012-02-16

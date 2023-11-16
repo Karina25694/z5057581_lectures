@@ -110,7 +110,6 @@ QAN_CLOSE_CSV = os.path.join(cfg.DATADIR, 'qan_close_ser.csv')
 #print(as_df)
 #
 
-
 # ----------------------------------------------------------------------------
 #   Saving the contents of an unnamed series (best version)
 # ----------------------------------------------------------------------------

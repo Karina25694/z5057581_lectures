@@ -5,7 +5,6 @@ Companion codes for the lecture on pandas Series
 
 import pandas as pd
 
-
 # ----------------------------------------------------------------------------
 #   The dates and prices lists
 # ----------------------------------------------------------------------------

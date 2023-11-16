@@ -424,7 +424,6 @@ print([1] + [2, 3])       # --> [1, 2, 3]
 
 
 
-
 # Adding an integer to a series of floats
 new_ser = ser + 1
 print(new_ser)
