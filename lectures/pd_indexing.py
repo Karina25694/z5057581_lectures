@@ -584,6 +584,7 @@ x = new_ser[1:-4]
 # do not match any row label.
 
 
+
 # Slices work similar to ser[slice], i.e., they operate on row indexes
 # `x` will be an empty datafame because the slice is not part of the row
 # labels
