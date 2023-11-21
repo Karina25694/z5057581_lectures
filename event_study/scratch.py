@@ -101,6 +101,7 @@ def load_prc1(tic):
     df = df.rename(columns=d)
     df.info()
 
+
 if __name__ == "__main__":
     #get_data0(tic=TIC)
     #get_data1(tic=TIC)
